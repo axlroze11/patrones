@@ -15,6 +15,8 @@
     {
         return BASE_URL."/Assets";
     }
+
+    
     function headerAdmin($data="")
     {
         $view_header = "Views/Template/header_admin.php";
